@@ -1,4 +1,4 @@
-welcome to my beatbox software
+welcome to my beatbox application
 i am wissem hajbi and this is how to use my app
 
 1 - CHOOSE SOME SAMPLE SOUNDS
